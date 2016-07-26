@@ -1,0 +1,14 @@
+{
+  "name": "holiday-service-node",
+  "version": "1.0.0",
+  "description": "HolidayServiceNode",
+  "main": "holiday.js",
+  "author": {
+    "name": "Dmitrij",
+    "email": "dmitrij@lyre.lt"
+  },
+  "dependencies": {
+    "express": "*"
+    "moment": "^2.13.0",
+  }
+}
