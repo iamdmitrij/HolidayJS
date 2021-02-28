@@ -4,8 +4,7 @@
   "description": "Helper REST service to determine Lithuanian holidays.",
   "main": "holiday.js",
   "author": {
-    "name": "Dmitrij",
-    "email": "dmitrij@lyre.lt"
+    "name": "Dmitrij"
   },
   "dependencies": {
     "express": "4.14.0",
